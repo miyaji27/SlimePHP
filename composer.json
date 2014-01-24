@@ -1,7 +1,7 @@
 {
   "name": "slim/bootstrap",
   "type": "library",
-  "description": "Bootstrap for the Slim Framework"
+  "description": "Bootstrap for the Slim Framework",
   "homepage": "",
   "license": "MIT",
   "authors": [],
